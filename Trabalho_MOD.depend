@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1600279071 source:c:\users\usuario\documents\trab_projeeto\trabalho_mod\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	"funcoes.h"
+
+1426360528 c:\freeglut\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426360528 c:\freeglut\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1600257172 c:\users\usuario\documents\trab_projeeto\trabalho_mod\funcoes.h
+
+1600900164 source:c:\users\usuario\desktop\faculdade\2_semestre\modelagem3d\trab2-bandeira\nomebandeira\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	"funcoes.h"
+
+1600257172 c:\users\usuario\desktop\faculdade\2_semestre\modelagem3d\trab2-bandeira\nomebandeira\funcoes.h
+
